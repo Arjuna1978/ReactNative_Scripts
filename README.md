@@ -12,17 +12,17 @@ This simple script will help you clean your react-native project. this script is
   * You have changed your codebase to point to a different Firebase project
   * You are encountering build issues in Xcode or Android Studio
 
-'''consol
+```` Consol
 bash CleanProject.sh
-'''
+````
 
 ## Script: SetupProject.sh
 This script helps me create a new project with my prefered folder structures and connects all the iOS and Android bits for my project, 
 it may be excessive for most, but works for me.
 
-'''consol
+```` Consol
 bash SetupProject.sh
-'''
+````
 
 
 ## Licence
