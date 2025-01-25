@@ -1,6 +1,6 @@
 # This set of scripts have helped me in m,any ReactNative projects
 
-## Script: clearnProject.sh  
+## Script: cleanProject.sh  
 
 This simple script will help you clean your react-native project. this script is useful when 
   * To fix the React Native Mistmatch error)
