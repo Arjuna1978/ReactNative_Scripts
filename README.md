@@ -1,5 +1,7 @@
 # This set of scripts have helped me in m,any ReactNative projects
 
+You can keep these scripts in your root directory, making it easy for you to manage multiple projects
+
 ## Script: CleanProject.sh  
 
 This simple script will help you clean your react-native project. this script is useful when 
