@@ -10,3 +10,6 @@ This simple script will help you clean your react-native project. this script is
   (5) You have opened the metro bundler in the wrong folder
   (6) You have changed your codebase to point to a different Firebase project
   (7) You are encountering build issues in Xcode or Android Studio
+
+#Licence
+ * **GNU General Public License (GPL) v3.0**  &lt;<http://www.gnu.org/licenses/gpl-3.0.txt>&gt;
