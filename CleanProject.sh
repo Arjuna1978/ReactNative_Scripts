@@ -9,6 +9,10 @@
 #  (6) You have changed your codebase to point to a different Firebase project
 #  (7) You are encountering build issues in Xcode or Android Studio
 
+read -p "Enter project name: " ProjectName
+npm uninstall -g react-native-cli @react-native-community/cli
+npx @react-native-community/cli init $ProjectName
+cd $ProjectName
 
 echo "Resetting your project may take a moment"
 
